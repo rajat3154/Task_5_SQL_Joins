@@ -182,6 +182,4 @@ RIGHT JOIN Orders ON Customers.customer_id = Orders.customer_id;
 
 ---
 
-> <img src="https://img.icons8.com/fluency/48/000000/sql.png" width="24"/>  
-> **Happy Querying!**  
-> Experiment with join types for powerful data insights.
+
